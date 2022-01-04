@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[ReportDll.csproj]
+SCC_Aux_Path = "\\jvsserver\VSS\"
+SCC_Project_Name = "$/ReportDll", WIDBAAAA
+
+[ReportDll.sln]
+SCC_Aux_Path = "\\jvsserver\VSS\"
+SCC_Project_Name = "$/ReportDll", WIDBAAAA

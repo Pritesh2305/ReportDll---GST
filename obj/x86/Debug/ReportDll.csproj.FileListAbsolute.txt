@@ -1,0 +1,72 @@
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\bin\Debug\ReportDll.exe.config
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.Properties.Resources.resources
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\SoftCath With C#\ReportDll.pdb
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.pdb
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.frmReport.resources
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.frmRptDisplay.resources
+C:\SoftCath With C#\ReportDll.dll.config
+C:\SoftCath With C#\ReportDll.dll
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.dll
+E:\Running Projects\Dot Net With C#\Reports\ReportDll\obj\x86\Debug\ReportDll.frmImage.resources
+C:\SoftClinic\ReportDll.dll.config
+C:\SoftClinic\ReportDll.dll
+C:\SoftClinic\ReportDll.pdb
+C:\SoftClinic C#\ReportDll.dll.config
+C:\SoftClinic C#\ReportDll.dll
+C:\SoftClinic C#\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.frmImage.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.frmReport.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.frmRptDisplay.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.Properties.Resources.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.csproj.GenerateResource.Cache
+C:\RMS\ReportDll.dll.config
+C:\RMS\ReportDll.dll
+C:\RMS\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll\obj\x86\Debug\ReportDll.dll
+C:\RMS-GST\ReportDll.dll.config
+C:\RMS-GST\ReportDll.dll
+C:\RMS-GST\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmImage.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmReport.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmRptDisplay.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.Properties.Resources.resources
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.GenerateResource.Cache
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.dll
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.pdb
+C:\HOME\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csprojResolveAssemblyReference.cache
+C:\SETUP-VS2017\New folder (2)\ReportDll.dll.config
+C:\SETUP-VS2017\New folder (2)\ReportDll.dll
+C:\SETUP-VS2017\New folder (2)\ReportDll.pdb
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmImage.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmReport.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmRptDisplay.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.Properties.Resources.resources
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.GenerateResource.Cache
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.dll
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.pdb
+C:\SETUP-VS2017\New folder\ReportDll.dll.config
+C:\SETUP-VS2017\New folder\ReportDll.dll
+C:\SETUP-VS2017\New folder\ReportDll.pdb
+C:\SETUP-VS2017\RMS-GST\ReportDll.dll.config
+C:\SETUP-VS2017\RMS-GST\ReportDll.dll
+C:\SETUP-VS2017\RMS-GST\ReportDll.pdb
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csprojAssemblyReference.cache
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING DATA\Programming\ClientWork\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.CopyComplete
+C:\SETUP\RMS-GST\ReportDll.dll.config
+C:\SETUP\RMS-GST\ReportDll.dll
+C:\SETUP\RMS-GST\ReportDll.pdb
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.AssemblyReference.cache
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmImage.resources
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmReport.resources
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.frmRptDisplay.resources
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.Properties.Resources.resources
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.GenerateResource.cache
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.CoreCompileInputs.cache
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.csproj.CopyComplete
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.dll
+C:\MYDATA\COMPANY-WORK\KRUPAASSOCIATES\KRUPAASSOCIATES\ReportDll - GST\obj\x86\Debug\ReportDll.pdb
